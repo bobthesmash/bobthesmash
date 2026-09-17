@@ -16,6 +16,10 @@ Private multimodal LLM client — answers like a product, not a chat dump. Aesth
 ### [Handy](https://github.com/bobthesmash/Handy)
 On-device voice stack for Android (Kotlin). Offline-first public WIP — not Play Store.
 
+[![Handy demo](https://raw.githubusercontent.com/bobthesmash/Handy/main/docs/demo/handy-demo-thumb.jpg)](https://youtu.be/6nARsKNHUE4)
+
+**~25s demo:** lock screen → flashlight on/off → music · [Watch](https://youtu.be/6nARsKNHUE4)
+
 ### [SaxSmith](https://github.com/bobthesmash/saxsmith)
 Alto sax practice in the browser. FastAPI + React, shipped web product.
 
