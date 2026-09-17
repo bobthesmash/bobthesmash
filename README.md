@@ -1,14 +1,28 @@
 # Benjamin Primas
 
-Praha. Kotlin, Python, Android. Od 2026/27 strojní na ČVUT (dálka).
+Praha · Kotlin / Python / Android · od 2026/27 strojní ČVUT (dálka)
 
-Řazení je schválně od toho, co má smysl otevřít na pohovoru, dolů.
+Nejdřív to, co stojí za otevření na callu.
 
-1. **[Handy](https://github.com/bobthesmash/Handy)** — on-device hlasový stack na Androidu (Kotlin, streaming ASR, lokální NLU, žádný speech-to-cloud). Public WIP, ne Play Store.
-2. **[SaxSmith](https://github.com/bobthesmash/saxsmith)** — altsaxofon v prohlížeči. FastAPI + React, hotový web.
-3. **[parking-app](https://github.com/bobthesmash/parking-app)** — offline Android: one-tap GPS stanoviště, mapa, widget.
-4. **[co-troll](https://github.com/bobthesmash/co-troll)** — menší experiment.
-5. **[kemp-u-lavky](https://github.com/bobthesmash/kemp-u-lavky)** — Rails take-home (rezervace kapacity).
-6. **[portfolio](https://github.com/bobthesmash/portfolio)** — Python / REST / pytest, malý web.
+## Featured
 
-Kontakt: benjamin.primas@gmail.com
+### [AI Visions](https://github.com/bobthesmash/AI-Visions-pitch)
+Private multimodal LLM client — answers like a product, not a chat dump. Aesthetic, multimedia, high-tech surface around modern LLMs.
+
+[![AI Visions demo](https://img.youtube.com/vi/hy9GJTWyE_E/maxresdefault.jpg)](https://youtube.com/shorts/hy9GJTWyE_E)
+
+**Demo (unlisted Short):** [Watch](https://youtube.com/shorts/hy9GJTWyE_E) · source private · deeper look on request (NDA-light)
+
+### [Handy](https://github.com/bobthesmash/Handy)
+On-device voice stack for Android (Kotlin). Offline-first public WIP — not Play Store.
+
+### [SaxSmith](https://github.com/bobthesmash/saxsmith)
+Alto sax practice in the browser. FastAPI + React, shipped web product.
+
+## Also
+
+- [parking-app](https://github.com/bobthesmash/parking-app) — offline Android GPS / map / widget
+- [draci-kabala](https://github.com/bobthesmash/draci-kabala) — hybrid RPG experiment
+- older take-homes & scraps stay in the repo list; not the interview path
+
+Kontakt: benjamin.primas@gmail.com · [AI multimodal client — demo on request]
