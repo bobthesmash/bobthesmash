@@ -27,6 +27,7 @@ Alto sax practice in the browser. FastAPI + React, shipped web product.
 
 - [parking-app](https://github.com/bobthesmash/parking-app) — offline Android GPS / map / widget
 - [draci-kabala](https://github.com/bobthesmash/draci-kabala) — hybrid RPG experiment
-- older take-homes & scraps stay in the repo list; not the interview path
+- [co-troll](https://github.com/bobthesmash/co-troll) — Co-worker controller: tiny Telegram remote for Cursor (coffee → ping when PC finishes)
+- older take-homes stay in the repo list; not the interview path
 
 Kontakt: benjamin.primas@gmail.com · [AI multimodal client — demo on request]
